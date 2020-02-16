@@ -10,9 +10,7 @@
 
 - [人的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+human)
 
-- [蝙蝠相关的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+bat)
-
-  ["Rhinolophus sinicus bats"(中华菊头蝠)](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+Rhinolophus+sinicus)
+- [蝙蝠相关的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+bat)——["Rhinolophus sinicus bats"(中华菊头蝠)](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+Rhinolophus+sinicus)
 
 3. pubmed上以"bat AND ACE2 protein"为关键词，[搜索近一年的相关文献](https://pubmed.ncbi.nlm.nih.gov/?term=bat+AND+ACE2+protein&filter=ds1.y_1&ac=yes&fs=yes&cauthor_id=None&user_filter=&schema=none&page=1&format=summary&sort=relevance&sort_order=desc&size=10))，共找到2篇相关文献，结果如下：
 
@@ -55,7 +53,6 @@ QMILFGEEDVRVANLKPRISFNFFVTAPKNVSDIIPRTEVEKAIRMSRSRINDAFRLNDN
 SLEFLGIQPTLGPPNQPPVSIWLIVFGVVMGVIVVGIVILIFTGIRDRKKKNKARSGENP
 YASIDISKGENNPGFQNTDDVQTSF
 ```
-
    2.2 Isoform 2(Q9BYF1-2)
 ```
 >sp|Q9BYF1-2|ACE2_HUMAN Isoform 2 of Angiotensin-converting enzyme 2 OS=Homo sapiens OX=9606 GN=ACE2
@@ -92,7 +89,7 @@ DNTLEFLGIQPTLGPPNQPPVTIWLIVFGVVMGVAVIGIAVLIFTGIRDRKKKKQAGNEE
 NPYSSVNLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.2 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠)](https://www.uniprot.org/uniprot/U5WHY8)
+   3.2 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/U5WHY8)
 ```
 >tr|U5WHY8|U5WHY8_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTTAQSTTEDEAKMFLDKFNTKAEDLSHQSSLASWDYNTNINDENVQ
@@ -111,7 +108,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.3 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI7)
+   3.3 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI7)
 ```
 >tr|E2DHI7|E2DHI7_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSFWLLLSLVAVTTAQSTTEDRAKTFLDEFNSEAENLSYQSSLASWDYNTNINDENVQ
@@ -130,7 +127,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.4 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI4)
+   3.4 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI4)
 ```
 >tr|E2DHI4|E2DHI4_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSFWFLLSLVAVTTAQSTTEDEAKIFLDKFNTKAEDLSHQSSLASWDYNTNINDENVQ
@@ -263,7 +260,7 @@ TLEFLGIEPTLGTPYQPPVTIWLIVFGVVMGLVVVGIVLLIFVGIRDRRKKNQERSEENP
 YSSVDLSKGENNAGFQNNDDVQTSF
 ```
 
-   3.11 [Myotis daubentonii (Daubenton's bat水鼠耳蝠)](https://www.uniprot.org/uniprot/E2DHI8)
+   3.11 [Myotis daubentonii (Daubenton's bat水鼠耳蝠)](https://www.uniprot.org/uniprot/E2DHI8)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI8|E2DHI8_MYODA Angiotensin-converting enzyme (Fragment) OS=Myotis daubentonii OX=98922 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVAAAQSSTEEKAKIFLDNFNSKAEDLSHESALASWDYNTNITDENVQ
@@ -274,7 +271,7 @@ AYVRAKLMNAYPSRISPTGYLPAHLLGDMWGRFWTNLYDLTVPFEQKPNIDVTGAMVEQS
 WDAEKIFKEAEKFYISVGLPSMTPGFWNNSMLTEPGDGRKVVCHPTAWDLGKGDFRI
 ```
 
-   3.12 [Rhinolophus pearsonii(皮氏菊头蝠)](https://www.uniprot.org/uniprot/E2DHI6)
+   3.12 [Rhinolophus pearsonii(皮氏菊头蝠)](https://www.uniprot.org/uniprot/E2DHI6)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI6|E2DHI6_9CHIR Angiotensin-converting enzyme (Fragment) OS=Rhinolophus pearsonii OX=188571 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTAAQSTTEDRAKTFLDKFNHEAEDLSHESSLASWEYNTNISDENVQ
@@ -285,7 +282,7 @@ HAYVRTKLMDTYPFHISPTGCLPAHLLGDMWGRFWTNLYPLTVPFGQKPNIDVTDAMVNQ
 GWDANRIFKEAEKFFVSVGLPNMTEGFWNNSMLTEPGDGRKVVCHPTAWDLGKDDFRI
 ```
 
-   3.13 [Hipposideros pratti(普氏蹄蝠)](https://www.uniprot.org/uniprot/E2DHI5)
+   3.13 [Hipposideros pratti(普氏蹄蝠)](https://www.uniprot.org/uniprot/E2DHI5)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI5|E2DHI5_9CHIR Angiotensin-converting enzyme (Fragment) OS=Hipposideros pratti OX=188569 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVAAAQSNSEDLAKEFLDKFNTEAEDLSHLSSLASWDYNTNITDENVQ
