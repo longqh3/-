@@ -4,13 +4,13 @@
 
 - [人的ACE2蛋白质信息](https://www.uniprot.org/uniprot/Q9BYF1)(高质量的非冗余数据库，以该蛋白序列为准)
 
-- 缺少蝙蝠相关的ACE2蛋白质信息
+- [蝙蝠相关的ACE2蛋白质信息](https://www.uniprot.org/uniprot/?query=ace2+bat&sort=score)(TrEMBL自动数据库，为高质量的计算分析结果)
 
 2. [NCBI的protein数据库](https://www.ncbi.nlm.nih.gov/protein)中[查找ACE2相应蛋白序列结构结果](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2)如下所示
 
 - [人的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+human)
 
-- [蝙蝠相关的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+bat)——["Rhinolophus sinicus bats"(中华菊头蝠)](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+Rhinolophus+sinicus)
+- [蝙蝠相关的ACE2蛋白质信息](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+bat)——[以"Rhinolophus sinicus bats"(中华菊头蝠)为例](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2+Rhinolophus+sinicus)
 
 3. pubmed上以"bat AND ACE2 protein"为关键词，[搜索近一年的相关文献](https://pubmed.ncbi.nlm.nih.gov/?term=bat+AND+ACE2+protein&filter=ds1.y_1&ac=yes&fs=yes&cauthor_id=None&user_filter=&schema=none&page=1&format=summary&sort=relevance&sort_order=desc&size=10))，共找到2篇相关文献，结果如下：
 
@@ -68,7 +68,7 @@ KREIVGVVEPVPHDETYCDPASLFHVSNDYSFIRYYTRTLYQFQFQEALCQAAKHEGPLH
 KCDISNSTEAGQKLL
 ```
 
-3. 蝙蝠ACE2蛋白序列——[Uniprot数据库(暂以此为准)]
+3. 蝙蝠ACE2蛋白序列——[Uniprot数据库(暂以此为准)](https://www.uniprot.org/uniprot/?query=ace2+bat&sort=score)
 
    3.1 [Myotis lucifugus (Little brown bat小棕蝙蝠)](https://www.uniprot.org/uniprot/G1PXH7)
 ```
