@@ -89,7 +89,9 @@ DNTLEFLGIQPTLGPPNQPPVTIWLIVFGVVMGVAVIGIAVLIFTGIRDRKKKKQAGNEE
 NPYSSVNLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.2 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/U5WHY8)
+   3.2 Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)
+
+   3.2.1 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/U5WHY8)
 ```
 >tr|U5WHY8|U5WHY8_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTTAQSTTEDEAKMFLDKFNTKAEDLSHQSSLASWDYNTNINDENVQ
@@ -108,7 +110,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.3 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI7)
+   3.2.2 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI7)
 ```
 >tr|E2DHI7|E2DHI7_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSFWLLLSLVAVTTAQSTTEDRAKTFLDEFNSEAENLSYQSSLASWDYNTNINDENVQ
@@ -127,7 +129,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.4 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI4)
+   3.2.3 [Rhinolophus sinicus (Chinese rufous horseshoe bat中国马蹄蝠&中华菊头蝠)](https://www.uniprot.org/uniprot/E2DHI4)
 ```
 >tr|E2DHI4|E2DHI4_9CHIR Angiotensin-converting enzyme OS=Rhinolophus sinicus OX=89399 GN=ACE2 PE=2 SV=1
 MSGSFWFLLSLVAVTTAQSTTEDEAKIFLDKFNTKAEDLSHQSSLASWDYNTNINDENVQ
@@ -146,7 +148,9 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.5 [Rhinolophus ferrumequinum (Greater horseshoe bat大马蹄蝠)](https://www.uniprot.org/uniprot/B6ZGN7)
+   3.3 Rhinolophus ferrumequinum (Greater horseshoe bat大马蹄蝠)
+
+   3.3.1 [Rhinolophus ferrumequinum (Greater horseshoe bat大马蹄蝠)](https://www.uniprot.org/uniprot/B6ZGN7)
 ```
 >tr|B6ZGN7|B6ZGN7_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTAAQSTTEDLAKKFLDDFNSEAENLSHQSSLASWEYNTNISDENVQ
@@ -165,7 +169,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKKDQARSEENP
 YSSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.6 [Rhinolophus ferrumequinum (Greater horseshoe bat大马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI2)
+   3.3.2 [Rhinolophus ferrumequinum (Greater horseshoe bat大马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI2)
 ```
 >tr|E2DHI2|E2DHI2_RHIFE Angiotensin-converting enzyme OS=Rhinolophus ferrumequinum OX=59479 GN=ACE2 PE=2 SV=1
 MSGSSWFLLSLVAVTAAQSTTEDLAKKFLDDFNSEAENLSHQSSLASWEYNTNISDENVQ
@@ -184,7 +188,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKKDQARSEENP
 YSSVDLSKGENNPGFQNGNDVQTSF
 ```
 
-   3.7 [Rhinolophus pusillus (Least horseshoe bat小马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI9)
+   3.4 [Rhinolophus pusillus (Least horseshoe bat小马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI9)
 ```
 >tr|E2DHI9|E2DHI9_9CHIR Angiotensin-converting enzyme OS=Rhinolophus pusillus OX=159858 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTAAQSITEDKAKKFLNDFNSEAEDLSYQSSLASWDYNTNISDENVQ
@@ -203,7 +207,7 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKADQARSEENP
 YPSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.8 [Rhinolophus macrotis (Big-eared horseshoe bat大耳马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI3)
+   3.5 [Rhinolophus macrotis (Big-eared horseshoe bat大耳马蹄蝠)](https://www.uniprot.org/uniprot/E2DHI3)
 ```
 >tr|E2DHI3|E2DHI3_RHIMR Angiotensin-converting enzyme OS=Rhinolophus macrotis OX=196889 GN=ACE2 PE=2 SV=1
 MSGSFWLLLSLVAVTAAQSTTEDEAKKFLDKFNSKAEDLSYESSLASWDYNTNISDENVQ
@@ -222,7 +226,9 @@ SLEFLGIQPTLGPPYQPPVTIWLIVFGVVMAVVVVGIVVLIITGIRDRRKTDQARSEENP
 YPSVDLSKGENNPGFQNGDDVQTSF
 ```
 
-   3.9 [Rousettus leschenaultii (Leschenault's rousette棕果蝠)](https://www.uniprot.org/uniprot/A4PIG8)
+   3.6 Rousettus leschenaultii (Leschenault's rousette棕果蝠)
+
+   3.6.1 [Rousettus leschenaultii (Leschenault's rousette棕果蝠)](https://www.uniprot.org/uniprot/A4PIG8)
 ```
 >tr|A4PIG8|A4PIG8_ROULE Angiotensin-converting enzyme OS=Rousettus leschenaultii OX=9408 GN=ACE2 PE=2 SV=1
 MSGSFWLFLSLVAVTAAQSTPEELAKTFLEKFNTEAEDLFYQSSLASWDFNTNIIDENVQ
@@ -241,7 +247,7 @@ TLEFLGIEPTLGTPYQPPVTIWLIVFGVVMGLVVVGIVLLIFVGIRDRRKKNQERSEENP
 YSSVDLSKGENNAGFQNNDDVQTSF
 ```
 
-   3.10 [Rousettus leschenaultii (Leschenault's rousette棕果蝠)](https://www.uniprot.org/uniprot/D8WU01)
+   3.6.2 [Rousettus leschenaultii (Leschenault's rousette棕果蝠)](https://www.uniprot.org/uniprot/D8WU01)
 ```
 >tr|D8WU01|D8WU01_ROULE Angiotensin-converting enzyme OS=Rousettus leschenaultii OX=9408 GN=ACE2 PE=2 SV=1
 MLGSFWFLLSLVAVTAAQSTPEELAKTFLEKFNTEAEDLFYQSSLASWDFNTNIIDENVQ
@@ -260,7 +266,7 @@ TLEFLGIEPTLGTPYQPPVTIWLIVFGVVMGLVVVGIVLLIFVGIRDRRKKNQERSEENP
 YSSVDLSKGENNAGFQNNDDVQTSF
 ```
 
-   3.11 [Myotis daubentonii (Daubenton's bat水鼠耳蝠)](https://www.uniprot.org/uniprot/E2DHI8)(仅为ACE酶的片段，暂不考虑)
+   3.7 [Myotis daubentonii (Daubenton's bat水鼠耳蝠)](https://www.uniprot.org/uniprot/E2DHI8)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI8|E2DHI8_MYODA Angiotensin-converting enzyme (Fragment) OS=Myotis daubentonii OX=98922 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVAAAQSSTEEKAKIFLDNFNSKAEDLSHESALASWDYNTNITDENVQ
@@ -271,7 +277,7 @@ AYVRAKLMNAYPSRISPTGYLPAHLLGDMWGRFWTNLYDLTVPFEQKPNIDVTGAMVEQS
 WDAEKIFKEAEKFYISVGLPSMTPGFWNNSMLTEPGDGRKVVCHPTAWDLGKGDFRI
 ```
 
-   3.12 [Rhinolophus pearsonii(皮氏菊头蝠)](https://www.uniprot.org/uniprot/E2DHI6)(仅为ACE酶的片段，暂不考虑)
+   3.8 [Rhinolophus pearsonii(皮氏菊头蝠)](https://www.uniprot.org/uniprot/E2DHI6)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI6|E2DHI6_9CHIR Angiotensin-converting enzyme (Fragment) OS=Rhinolophus pearsonii OX=188571 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVTAAQSTTEDRAKTFLDKFNHEAEDLSHESSLASWEYNTNISDENVQ
@@ -282,7 +288,7 @@ HAYVRTKLMDTYPFHISPTGCLPAHLLGDMWGRFWTNLYPLTVPFGQKPNIDVTDAMVNQ
 GWDANRIFKEAEKFFVSVGLPNMTEGFWNNSMLTEPGDGRKVVCHPTAWDLGKDDFRI
 ```
 
-   3.13 [Hipposideros pratti(普氏蹄蝠)](https://www.uniprot.org/uniprot/E2DHI5)(仅为ACE酶的片段，暂不考虑)
+   3.9 [Hipposideros pratti(普氏蹄蝠)](https://www.uniprot.org/uniprot/E2DHI5)(仅为ACE酶的片段，暂不考虑)
 ```
 >tr|E2DHI5|E2DHI5_9CHIR Angiotensin-converting enzyme (Fragment) OS=Hipposideros pratti OX=188569 GN=ACE2 PE=2 SV=1
 MSGSSWLLLSLVAVAAAQSNSEDLAKEFLDKFNTEAEDLSHLSSLASWDYNTNITDENVQ
