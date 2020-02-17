@@ -4,7 +4,7 @@
 
 - [人的ACE2蛋白质信息](https://www.uniprot.org/uniprot/Q9BYF1)(高质量的非冗余数据库，以该蛋白序列为准)
 
-- [蝙蝠相关的ACE2蛋白质信息](https://www.uniprot.org/uniprot/?query=ace2+bat&sort=score)(TrEMBL自动数据库，为高质量的计算分析结果)
+- [蝙蝠相关的ACE2蛋白质信息](https://www.uniprot.org/uniprot/?query=ace2+bat&sort=score)(TrEMBL自动数据库，为高质量的计算分析结果，存在[冗余重复](https://www.uniprot.org/help/redundancy))
 
 2. [NCBI的protein数据库](https://www.ncbi.nlm.nih.gov/protein)中[查找ACE2相应蛋白序列结构结果](https://www.ncbi.nlm.nih.gov/protein/?term=ACE2)如下所示
 
