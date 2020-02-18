@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1032" height="332" name="human_bat_ACE2_sequence_compare.svg" y="0" viewBox="0 0 1032 332">
+<polyline points="1032,332 0,332 0,0 1032,0 1032,332" fill="white" />
+<text x="441" y="39" fill="#000000" font-size="15" font-family="Arial" > Q9BYF1 HUMAN Angiotensin-converting enzyme 2 OS Homo sapiens</text>
+<polyline points="382,44 382,32 439,32" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="63" fill="#000000" font-size="15" font-family="Arial" > Q9BYF1-2 HUMAN Isoform 2 of Angiotensin-converting enzyme 2 OS Homo sapiens</text>
+<polyline points="382,45 382,56 439,56" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="325,62 325,44 382,44" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="87" fill="#000000" font-size="15" font-family="Arial" > G1PXH7 MYOLU Angiotensin-converting enzyme OS Myotis lucifugus</text>
+<polyline points="325,63 325,80 439,80" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="268,89 268,62 325,62" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="111" fill="#000000" font-size="15" font-family="Arial" > A4PIG8 ROULE Angiotensin-converting enzyme OS Rousettus leschenaultii</text>
+<polyline points="382,116 382,104 439,104" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="135" fill="#000000" font-size="15" font-family="Arial" > D8WU01 ROULE Angiotensin-converting enzyme OS Rousettus leschenaultii</text>
+<polyline points="382,117 382,128 439,128" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="268,90 268,116 382,116" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="211,126 211,89 268,89" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="159" fill="#000000" font-size="15" font-family="Arial" > B6ZGN7 RHIFE Angiotensin-converting enzyme OS Rhinolophus ferrumequinum</text>
+<polyline points="382,164 382,152 439,152" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="183" fill="#000000" font-size="15" font-family="Arial" > E2DHI2 RHIFE Angiotensin-converting enzyme OS Rhinolophus ferrumequinum</text>
+<polyline points="382,165 382,176 439,176" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="211,127 211,164 382,164" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="154,169 154,126 211,126" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="207" fill="#000000" font-size="15" font-family="Arial" > E2DHI9 9CHIR Angiotensin-converting enzyme OS Rhinolophus pusillus</text>
+<polyline points="382,212 382,200 439,200" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="231" fill="#000000" font-size="15" font-family="Arial" > E2DHI3 RHIMR Angiotensin-converting enzyme OS Rhinolophus macrotis</text>
+<polyline points="382,213 382,224 439,224" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="154,170 154,212 382,212" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="97,214 97,169 154,169" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="255" fill="#000000" font-size="15" font-family="Arial" > U5WHY8 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="382,260 382,248 439,248" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="279" fill="#000000" font-size="15" font-family="Arial" > E2DHI4 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="382,261 382,272 439,272" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="97,215 97,260 382,260" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,255 40,214 97,214" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="303" fill="#000000" font-size="15" font-family="Arial" > E2DHI7 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="40,256 40,296 439,296" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="358" y="181" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="358" y="133" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="358" y="38" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="364" y="229" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<text x="307" y="56" fill="#000000" font-size="11" font-family="Tahoma" >95</text>
+<text x="244" y="83" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="193" y="120" fill="#000000" font-size="11" font-family="Tahoma" >98</text>
+<text x="130" y="163" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="364" y="277" fill="#000000" font-size="11" font-family="Tahoma" >76</text>
+<text x="441" y="39" fill="#000000" font-size="15" font-family="Arial" > Q9BYF1 HUMAN Angiotensin-converting enzyme 2 OS Homo sapiens</text>
+<polyline points="382,44 382,32 439,32" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="63" fill="#000000" font-size="15" font-family="Arial" > Q9BYF1-2 HUMAN Isoform 2 of Angiotensin-converting enzyme 2 OS Homo sapiens</text>
+<polyline points="382,45 382,56 439,56" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="325,62 325,44 382,44" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="87" fill="#000000" font-size="15" font-family="Arial" > G1PXH7 MYOLU Angiotensin-converting enzyme OS Myotis lucifugus</text>
+<polyline points="325,63 325,80 439,80" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="268,89 268,62 325,62" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="111" fill="#000000" font-size="15" font-family="Arial" > A4PIG8 ROULE Angiotensin-converting enzyme OS Rousettus leschenaultii</text>
+<polyline points="382,116 382,104 439,104" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="135" fill="#000000" font-size="15" font-family="Arial" > D8WU01 ROULE Angiotensin-converting enzyme OS Rousettus leschenaultii</text>
+<polyline points="382,117 382,128 439,128" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="268,90 268,116 382,116" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="211,126 211,89 268,89" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="159" fill="#000000" font-size="15" font-family="Arial" > B6ZGN7 RHIFE Angiotensin-converting enzyme OS Rhinolophus ferrumequinum</text>
+<polyline points="382,164 382,152 439,152" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="183" fill="#000000" font-size="15" font-family="Arial" > E2DHI2 RHIFE Angiotensin-converting enzyme OS Rhinolophus ferrumequinum</text>
+<polyline points="382,165 382,176 439,176" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="211,127 211,164 382,164" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="154,169 154,126 211,126" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="207" fill="#000000" font-size="15" font-family="Arial" > E2DHI9 9CHIR Angiotensin-converting enzyme OS Rhinolophus pusillus</text>
+<polyline points="382,212 382,200 439,200" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="231" fill="#000000" font-size="15" font-family="Arial" > E2DHI3 RHIMR Angiotensin-converting enzyme OS Rhinolophus macrotis</text>
+<polyline points="382,213 382,224 439,224" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="154,170 154,212 382,212" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="97,214 97,169 154,169" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="255" fill="#000000" font-size="15" font-family="Arial" > U5WHY8 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="382,260 382,248 439,248" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="279" fill="#000000" font-size="15" font-family="Arial" > E2DHI4 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="382,261 382,272 439,272" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="97,215 97,260 382,260" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<polyline points="40,255 40,214 97,214" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="441" y="303" fill="#000000" font-size="15" font-family="Arial" > E2DHI7 9CHIR Angiotensin-converting enzyme OS Rhinolophus sinicus</text>
+<polyline points="40,256 40,296 439,296" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="square"/>
+<text x="358" y="181" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="358" y="133" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="358" y="38" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="364" y="229" fill="#000000" font-size="11" font-family="Tahoma" >97</text>
+<text x="307" y="56" fill="#000000" font-size="11" font-family="Tahoma" >95</text>
+<text x="244" y="83" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="193" y="120" fill="#000000" font-size="11" font-family="Tahoma" >98</text>
+<text x="130" y="163" fill="#000000" font-size="11" font-family="Tahoma" >100</text>
+<text x="364" y="277" fill="#000000" font-size="11" font-family="Tahoma" >76</text>
+</svg>
