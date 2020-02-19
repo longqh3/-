@@ -29,7 +29,7 @@ these ACE2 molecules are identical or similar in the critical virus-binding resi
 
 ---
 
-  考虑到不同种属蝙蝠ACE2蛋白序列的特异性，本次暂选取"Rhinolophus sinicus bats"(中华菊头蝠)中的ACE2蛋白序列为例进行分析，其他种属蝙蝠的ACE2蛋白序列信息详见综述文章([Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry.](https://www.ncbi.nlm.nih.gov/pubmed/20567988/))
+  既往进行的不同种属蝙蝠ACE2蛋白序列信息比对结果，详见综述文章 ([Angiotensin-converting enzyme 2 (ACE2) proteins of different bat species confer variable susceptibility to SARS-CoV entry.](https://www.ncbi.nlm.nih.gov/pubmed/20567988/)) 。本次序列比对以Uniprot数据库中提供的所有人类、蝙蝠ACE2蛋白的氨基酸序列作为原始数据，进行比对分析。
  
 1. [蛋白序列相似度比对方法](https://blog.csdn.net/weixin_43745169/article/details/90580175)
   
