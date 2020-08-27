@@ -2,7 +2,7 @@ import argparse
 import os
 from multiprocessing import Pool
 # description参数可以用于描述脚本的参数作用，默认为空
-parser=argparse.ArgumentParser(description="Check all subfolders within specified sequence data storage folder")
+parser=argparse.ArgumentParser(description="Check all subfolders\' md5 status within specified sequence data storage folder")
 parser.add_argument('--folder','-f',help='Folder path of all your sequence data storage.')
 parser.add_argument('--output_folder','-o',help='Output md5sum check results\' folder path.')
 parser.add_argument('--output_result','-r',help='Output md5sum check results\' file name.')
@@ -25,9 +25,12 @@ def md5Check(md5_file_loc, output_folder_loc):
     md5sum_result = os.popen(f"md5sum -c {md5_file_name}").read()
     print(f"Start to write {md5_folder_loc} results to {output_folder_loc}")
     # write md5sum results
-    with open(os.path.join(output_folder_loc, md5_file_name)) as f:
+    with open(os.path.join(output_folder_loc, md5_file_name), 'w') as f:
         f.write(md5sum_result)
         f.close()
+
+# perform fastqc quality assessment
+def fastqc()
 
 
 if __name__ == "__main__":
@@ -50,9 +53,9 @@ if __name__ == "__main__":
     print('All subprocesses done.')
     
     # summarize single results
-    with open(os.path.join(args.output_folder, args.output_result)) as f:
+    with open(os.path.join(args.output_folder, args.output_result), 'w') as f:
         # open all result files
-        md5_result_files = [open(os.path.join(args.output_folder, md5_result_name)) for md5_result_name in os.listdir(output_folder_loc)]
+        md5_result_files = [open(os.path.join(args.output_folder, md5_result_name)) for md5_result_name in os.listdir(args.output_folder)]
         for md5_result_file in md5_result_files:
             f.write(md5_result_file.read())
             f.write("\n\n")
