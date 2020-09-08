@@ -30,7 +30,7 @@ def md5Check(md5_file_loc, output_folder_loc):
         f.close()
 
 # perform fastqc quality assessment
-def fastqc()
+# def fastqc()
 
 
 if __name__ == "__main__":
